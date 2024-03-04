@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: (https://github.com/khabbab50/simple-omelette-recipe-frontend-mentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://khabbab50.github.io/simple-omelette-recipe-frontend-mentor/)
 
 ## My process
 
@@ -93,7 +93,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://github.com/khabbab50)
+- Website - [Md Khabbab Hossen](https://github.com/khabbab50)
 - Frontend Mentor - [@khabbab50](https://www.frontendmentor.io/profile/khabbab50)
 - Facebbok - [@khabbab51](https://web.facebook.com/khabbab51)
 
